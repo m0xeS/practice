@@ -1,0 +1,11 @@
+C:\Users\student\source\repos\practice\prac_04_02\obj\Debug\netcoreapp3.1\prac_04_02.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\practice\prac_04_02\obj\Debug\netcoreapp3.1\prac_04_02.AssemblyInfo.cs
+C:\Users\student\source\repos\practice\prac_04_02\bin\Debug\netcoreapp3.1\prac_04_02.exe
+C:\Users\student\source\repos\practice\prac_04_02\bin\Debug\netcoreapp3.1\prac_04_02.deps.json
+C:\Users\student\source\repos\practice\prac_04_02\bin\Debug\netcoreapp3.1\prac_04_02.runtimeconfig.json
+C:\Users\student\source\repos\practice\prac_04_02\bin\Debug\netcoreapp3.1\prac_04_02.runtimeconfig.dev.json
+C:\Users\student\source\repos\practice\prac_04_02\bin\Debug\netcoreapp3.1\prac_04_02.dll
+C:\Users\student\source\repos\practice\prac_04_02\bin\Debug\netcoreapp3.1\prac_04_02.pdb
+C:\Users\student\source\repos\practice\prac_04_02\obj\Debug\netcoreapp3.1\prac_04_02.csprojAssemblyReference.cache
+C:\Users\student\source\repos\practice\prac_04_02\obj\Debug\netcoreapp3.1\prac_04_02.dll
+C:\Users\student\source\repos\practice\prac_04_02\obj\Debug\netcoreapp3.1\prac_04_02.pdb
