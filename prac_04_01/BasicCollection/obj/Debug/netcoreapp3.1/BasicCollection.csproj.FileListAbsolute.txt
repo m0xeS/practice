@@ -1,0 +1,11 @@
+C:\Users\student\source\repos\practice\prac_04_01\BasicCollection\obj\Debug\netcoreapp3.1\BasicCollection.csprojAssemblyReference.cache
+C:\Users\student\source\repos\practice\prac_04_01\BasicCollection\obj\Debug\netcoreapp3.1\BasicCollection.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\practice\prac_04_01\BasicCollection\obj\Debug\netcoreapp3.1\BasicCollection.AssemblyInfo.cs
+C:\Users\student\source\repos\practice\prac_04_01\BasicCollection\bin\Debug\netcoreapp3.1\BasicCollection.exe
+C:\Users\student\source\repos\practice\prac_04_01\BasicCollection\bin\Debug\netcoreapp3.1\BasicCollection.deps.json
+C:\Users\student\source\repos\practice\prac_04_01\BasicCollection\bin\Debug\netcoreapp3.1\BasicCollection.runtimeconfig.json
+C:\Users\student\source\repos\practice\prac_04_01\BasicCollection\bin\Debug\netcoreapp3.1\BasicCollection.runtimeconfig.dev.json
+C:\Users\student\source\repos\practice\prac_04_01\BasicCollection\bin\Debug\netcoreapp3.1\BasicCollection.dll
+C:\Users\student\source\repos\practice\prac_04_01\BasicCollection\bin\Debug\netcoreapp3.1\BasicCollection.pdb
+C:\Users\student\source\repos\practice\prac_04_01\BasicCollection\obj\Debug\netcoreapp3.1\BasicCollection.dll
+C:\Users\student\source\repos\practice\prac_04_01\BasicCollection\obj\Debug\netcoreapp3.1\BasicCollection.pdb
