@@ -12,7 +12,8 @@ namespace BasicCollection
         myList.Add("Second");
         myList.Add("Third");
         myList.Add("Fourth");
-        foreach (string item in myList)
+        myList.Add("FIRST");
+      foreach (string item in myList)
         {
           Console.WriteLine("Unsorted: {0}", item);
         }
