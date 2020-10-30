@@ -1,0 +1,9 @@
+C:\Users\student\source\repos\pr_09_1\bin\Debug\pr_09_1.exe.config
+C:\Users\student\source\repos\pr_09_1\bin\Debug\pr_09_1.exe
+C:\Users\student\source\repos\pr_09_1\bin\Debug\pr_09_1.pdb
+C:\Users\student\source\repos\pr_09_1\obj\Debug\pr_09_1.csprojAssemblyReference.cache
+C:\Users\student\source\repos\pr_09_1\obj\Debug\pr_09_1.Properties.Resources.resources
+C:\Users\student\source\repos\pr_09_1\obj\Debug\pr_09_1.csproj.GenerateResource.cache
+C:\Users\student\source\repos\pr_09_1\obj\Debug\pr_09_1.exe
+C:\Users\student\source\repos\pr_09_1\obj\Debug\pr_09_1.pdb
+C:\Users\student\source\repos\pr_09_1\obj\Debug\pr_09_1.Form1.resources
